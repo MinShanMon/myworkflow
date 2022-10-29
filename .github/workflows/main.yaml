@@ -25,4 +25,4 @@ jobs:
     #   run: fail()
 
     - name: Echo my secret
-      run: echo"MY_SECRET is ${{ secrets.MY_SECRET }}"
+      run: echo "MY_SECRET is ${{ secrets.MY_SECRET }}"
