@@ -6,7 +6,7 @@ on:
 #Jobs in the workflow
 jobs: 
   #job name
-  my-first-workflow
+  my-first-workflow:
   #OS that this workflow will be running on
     runs-on: ubuntu-latest
 
